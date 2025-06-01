@@ -1,52 +1,48 @@
-## 👋 مرحبًا، أنا محمد نور  
-مبرمج ومهتم بتطوير مهاراتي بشكل دائم 💻🚀
+## 👋 Hi there, I'm Mohamed Nour  
+A passionate programmer always striving to improve my skills 💻🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/mohamednoor-dev?label=Follow&style=for-the-badge)](https://github.com/mohamednoor-dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff652f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abo-mrhf-5b5147346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-## 🧑‍💻 عني
+## 🧑‍💻 About Me
 
-- 💡 أعمل حاليًا على مشاريع برمجية تطويرية لتحسين مهاراتي العملية
-- 📚 أتعلم تقنيات جديدة في الـ Web Development بشكل يومي
-- 🤝 أتطلع للتعاون مع مطورين عرب وعالميين
-- 🧠 شغوف بتقنيات: JavaScript | Node.js | React | MongoDB | APIs
-- 🥅 أهداف 2025: إنشاء مشاريع مفتوحة المصدر، والمساهمة في مجتمعات المطورين
+- 💡 Currently working on development projects to improve my practical skills
+- 📚 Always learning new technologies in Web and Mobile Development
+- 🤝 Open to collaboration with developers from around the world
+- 🧠 Passionate about: C++ | HTML | CSS | JavaScript | Dart | Java | SQL | Flutter
+- 🥅 2025 Goals: Build open-source projects and contribute to the developer community
 
 ---
 
-## 🔧 المهارات والأدوات
+## 🔧 Languages & Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />
+<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <br /><br />
 
 ---
 
-## 📫 تواصل معي
+## 📫 Contact Me
 
-- 🌐 موقعي الشخصي: [your-portfolio.com](https://your-portfolio.com)
-- 📩 الإيميل: mohamed.noor.dev@gmail.com
-- 💼 لينكدإن: [linkedin.com/in/username](https://linkedin.com/in/username)
-
----
-
-## ⚡ إحصائيات GitHub
-
-![محمد نور GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamednoor-dev&show_icons=true&theme=tokyonight)
+- 📩 Email: mhamadslyman54321@gmail.com  
+- 💼 LinkedIn: [Click here to view my profile](https://www.linkedin.com/in/abo-mrhf-5b5147346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-## 🌟 اقتباسي المفضل:
+## ⚡ GitHub Stats
 
-> "التطوير المستمر هو سر التميز."
+![Mohamed Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamednoor-dev&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌟 Favorite Quote:
+
+> "Continuous improvement is the key to excellence."
