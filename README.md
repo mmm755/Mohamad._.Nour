@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Mohamed Nour  
+## 👋 Hello everyone, I'm Mohamed Nour  
 A passionate programmer always striving to improve my skills 💻🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/mohamednoor-dev?label=Follow&style=for-the-badge)](https://github.com/mohamednoor-dev)
